@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <subtitle>Blog</subtitle>
+    <link href="/atom" rel="self" type="application/rss+xml"/>
+    <link href="/" />
+    <updated>2020-09-13T20:12:00.310Z</updated>
+    <id>My Notion Blog</id>
+    <entry>
+      <id>/blog/first-post-slug</id>
+      <title>A first post</title>
+      <link href="/blog/first-post-slug"/>
+      <updated>2020-09-11T05:00:00.301Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          <p class="more">
+            <a href="/blog/first-post-slug">Read more</a>
+          </p>
+        </div>
+      </content>
+      
+    </entry>
+  </feed>

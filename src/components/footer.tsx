@@ -8,7 +8,8 @@ export default () => (
           view source
         </ExtLink>
         <ExtLink href="https://github.com/ijjk/notion-blog">
-            modified from here
+          <br />
+          modified from here
         </ExtLink>
       </span>
     </footer>
