@@ -26,8 +26,9 @@ export default () => (
           <br />
           I built it to share some thoughts on the internet, and fiddle with
           tools to build websites more easily.
-          <br />I like news stuff, 3D printing, and people. I care about
-          privacy, human rights, and human sustainability.
+          <br />
+          <br />I like news stuff, 3D printing, skeeball, and helping people. I
+          care about privacy, human rights, and sustainability.
         </p>
       </div>
     </div>
